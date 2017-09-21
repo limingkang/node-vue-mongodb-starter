@@ -8,7 +8,7 @@
 
 >  接口文档:          [接口文档地址](https://github.com/bailicangdu/node-elm/blob/master/API.md) 
 
->  server参考项目：   [前端项目地址](https://github.com/bailicangdu/node-elm) 
+>  server参考项目：   [服务器端项目地址](https://github.com/bailicangdu/node-elm) 
 
 >  front参考项目：    [前端项目地址](https://github.com/bailicangdu/vue2-elm)   
 
